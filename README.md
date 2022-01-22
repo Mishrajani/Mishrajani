@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Mishrajani
-- 👀 I’m interested in all things planetary using data.
-- 🌱 I’m currently learning PySpark, PyTorch, and TensorFlow.
-- 💞️ I’m looking to collaborate on Image data analysis.
-- 📫 How to reach me : rhapsodyraj at gmail dot com
+-Hi, I’m @Mishrajani. I’m interested in image data analysis using python and R.
+I’m currently learning PySpark, PyTorch, and TensorFlow. I’m looking to collaborate on pre-processing image data, analysis, and photometry-based numerical modeling.
+Reach me : rhapsodyraj at gmail dot com
 
 <!---
 Mishrajani/Mishrajani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
